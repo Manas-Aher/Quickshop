@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "D:/Website"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			""
+		]
+	}
+}
